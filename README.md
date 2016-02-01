@@ -1,0 +1,5 @@
+# cenit
+
+## Odoo - Mailchimp integration
+
+
